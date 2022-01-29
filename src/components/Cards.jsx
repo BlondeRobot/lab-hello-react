@@ -1,15 +1,15 @@
-import divOne from './divOne'
-import divTwo from "./divTwo";
-import divThree from './divThree'
-import divFour from './divFour';
+import DivOne from './DivOne'
+import DivTwo from "./DivTwo";
+import DivThree from './DivThree'
+import DivFour from './DivFour';
 
 function Cards() {
   return (
     <div id="cards">
-      <divOne />
-      <divTwo />
-      <divThree />
-      <divFour />
+      <DivOne />
+      <DivTwo />
+      <DivThree />
+      <DivFour />
     </div>
   );
 }

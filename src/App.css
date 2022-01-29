@@ -44,5 +44,11 @@
 
 #cards {
   background-color: blueviolet;
+  display: flex;
+}
+
+#cards p {
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
